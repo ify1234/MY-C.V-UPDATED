@@ -1,0 +1,69 @@
+*{
+    margin: 10px;
+    padding: 0px;
+    font-family: 'Times New Roman', Times, serif;
+  
+}
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+.container{  
+  max-width: 50vw;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    box-shadow: 2px 2px 3px 3px rgb(236, 236, 236);
+    padding: 50px;
+
+}
+h4{
+    padding: 8px;
+    padding-left: 30px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.details{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+p{ 
+    padding: 10px
+}
+.details{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 200px;
+    padding-top: 0px;
+}
+
+.list{
+    padding-left: 0px;
+    padding-top: 0px;
+    padding-bottom: 20px;
+}
+footer{
+    padding-top: 0px;
+    padding-bottom: 100px;
+ float: right;
+ margin-bottom: 20px;
+ font-size: small;
+ color: rgb(93, 93, 93);
+ 
+} 
+#linkedin{
+    padding-top: 5px;
+    font-size: 18px;
+}
+.special{
+     display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    width: 100%;
+    list-style:none;
+}
+
+
